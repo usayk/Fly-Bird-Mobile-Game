@@ -1,0 +1,2 @@
+com/mygdx/game/UcanKus.java
+ com.mygdx.game.UcanKus
